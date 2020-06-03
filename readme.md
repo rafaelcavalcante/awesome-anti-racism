@@ -10,30 +10,35 @@
 
 ## Content
 
-- [People](#people)
-- [Books](#books)
-- [Movies](#movies)
-- [Movements](#movements)
 - [Articles](#articles)
-- [Videos](#videos)
-- [TV Shows](#tvshows)
+- [Books](#books)
+- [Movements](#movements)
+- [Movies](#movies)
 - [NGOs](#ngos)
+- [People](#people)
+- [TV Shows](#tvshows)
+- [Videos](#videos)
+
+## Articles
+
+## Books
+
+## Movements
+
+- [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
+
+## Movies
+
+## NGOs
 
 ## People
 
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 
-## Books
-## Movies
-## Movements
-
-- [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
-
-## Articles
-## Videos
 ## TV Shows
-## NGOs
 
-### Credits
+## Videos
+
+#### Credits
 
 Icon by [Freepik](https://www.flaticon.com/br/autores/freepik)
