@@ -23,11 +23,21 @@
 
 ## Books
 
+- *The Underground Railroad* by Colson Whitehead
+- *An American Marriage* by Tayari Jones
+- *Little Fires Everywhere* by Celeste Ng
+- *The Hate U Give* by Angie Thomas
+- *To Kill a Mockingbird* by Harper Lee
+
 ## Movements
 
 - [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
 
 ## Movies
+
+- [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
+- [Hidden Figures](https://www.themoviedb.org/movie/381284-hidden-figures)
+- [The Help](https://www.themoviedb.org/movie/50014-the-help)
 
 ## NGOs
 
