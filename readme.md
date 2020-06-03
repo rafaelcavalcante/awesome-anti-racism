@@ -18,7 +18,18 @@
 - [NGOs](#ngos)
 
 ## Books
+
+- *The Underground Railroad* by Colson Whitehead
+- *An American Marriage* by Tayari Jones
+- *Little Fires Everywhere* by Celeste Ng
+- *The Hate U Give* by Angie Thomas
+- *To Kill a Mockingbird* by Harper Lee
+
 ## Movies
+
+- *The Color Purple*
+- *Hidden Figures*
+
 ## Articles
 ## Videos
 ## TV Shows
