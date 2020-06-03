@@ -1,8 +1,9 @@
 # Anti-racism is AWESOME
 
-An awesome list with anti-racism content
-
-<p align="center">Disponível em breve em Português</p>
+<p align="center">
+An awesome list with anti-racism content<br />
+<em>Disponível em breve em Português<em>
+</p>
 
 ## Content
 
