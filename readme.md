@@ -35,8 +35,9 @@
 
 ## Movies
 
-- *The Color Purple*
-- *Hidden Figures*
+- [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
+- [Hidden Figures](https://www.themoviedb.org/movie/381284-hidden-figures)
+- [The Help](https://www.themoviedb.org/movie/50014-the-help)
 
 ## NGOs
 
