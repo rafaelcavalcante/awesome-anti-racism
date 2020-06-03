@@ -7,12 +7,17 @@ An awesome list with anti-racism content<br />
 
 ## Content
 
+- [People](#people)
 - [Books](#books)
 - [Movies](#movies)
 - [Articles](#articles)
 - [Videos](#videos)
 - [TV Shows](#tvshows)
 - [NGOs](#ngos)
+
+## People
+
+- [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 
 ## Books
 ## Movies
