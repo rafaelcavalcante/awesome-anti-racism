@@ -10,12 +10,16 @@
 
 ## Content
 
-- [Books](#books)
-- [Movies](#movies)
 - [Articles](#articles)
-- [Videos](#videos)
-- [TV Shows](#tvshows)
+- [Books](#books)
+- [Movements](#movements)
+- [Movies](#movies)
 - [NGOs](#ngos)
+- [People](#people)
+- [TV Shows](#tvshows)
+- [Videos](#videos)
+
+## Articles
 
 ## Books
 
@@ -25,16 +29,25 @@
 - *The Hate U Give* by Angie Thomas
 - *To Kill a Mockingbird* by Harper Lee
 
+## Movements
+
+- [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
+
 ## Movies
 
 - *The Color Purple*
 - *Hidden Figures*
 
-## Articles
-## Videos
-## TV Shows
 ## NGOs
 
-### Credits
+## People
+
+- [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
+
+## TV Shows
+
+## Videos
+
+#### Credits
 
 Icon by [Freepik](https://www.flaticon.com/br/autores/freepik)
