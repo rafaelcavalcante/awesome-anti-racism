@@ -12,12 +12,14 @@
 
 - [Articles](#articles)
 - [Books](#books)
+- [Documentaries and short films](#documentaries-and-short-films)
 - [Movements](#movements)
 - [Movies](#movies)
 - [NGOs](#ngos)
 - [People](#people)
-- [TV Shows](#tvshows)
+- [TV Shows](#tv-shows)
 - [Videos](#videos)
+- [YouTube Channels](#videos)
 
 ### Articles
 
@@ -28,6 +30,8 @@
 - *Little Fires Everywhere* by Celeste Ng
 - *The Hate U Give* by Angie Thomas
 - *To Kill a Mockingbird* by Harper Lee
+
+### Documentaries and short films
 
 ## Movements
 
@@ -51,11 +55,17 @@
 
 ### Videos
 
+### YouTube
+
+- [Nátaly Neri](https://www.youtube.com/results?search_query=nataly+neri) 🇧🇷
+
 ## Contributing
 
 Just fork and open a pull request. We're still refining how content should me managed/formatted and will discuss details in merge request.
 
 Please avoid using links to paid services, like pointing a movie to Netflix or books to Amazon.
+
+If you're adding a content within a specific language that is not english, please add em Emoji in the end of the item.
 
 You can also check for [issues marked as "Help Wanted"](https://github.com/rafaelcavalcante/awesome-anti-racism/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to contribute.
 
