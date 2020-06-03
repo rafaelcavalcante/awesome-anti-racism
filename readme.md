@@ -57,7 +57,7 @@
 
 ### YouTube
 
-- [Nátaly Neri](https://www.youtube.com/results?search_query=nataly+neri) 🇧🇷
+- [Nátaly Neri](https://www.youtube.com/results?search_query=nataly+neri) 🇧🇷🇵🇹
 
 ## Contributing
 
