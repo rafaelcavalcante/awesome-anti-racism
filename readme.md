@@ -33,7 +33,9 @@
 
 ## People
 
+- [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
+- [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ## TV Shows
 
