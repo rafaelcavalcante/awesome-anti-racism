@@ -19,28 +19,39 @@
 - [TV Shows](#tvshows)
 - [Videos](#videos)
 
-## Articles
+### Articles
 
-## Books
+### Books
 
-## Movements
+### Movements
 
 - [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
 
-## Movies
+### Movies
 
-## NGOs
+### NGOs
 
-## People
+### People
 
 - [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 - [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
-## TV Shows
+### TV Shows
 
-## Videos
+### Videos
 
-#### Credits
+## Contributing
+
+Just fork and open a pull request. We're still refining how content should me managed/formatted and will discuss details in merge request.
+
+Please avoid using links to paid services, like pointing a movie to Netflix or books to Amazon.
+
+You can also check for [issues marked as "Help Wanted"](https://github.com/rafaelcavalcante/awesome-anti-racism/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to contribute.
+
+
+## Credits
+
+Based on Sindre Sorhus's [Awesome]( https://github.com/sindresorhus/awesome) project.
 
 Icon by [Freepik](https://www.flaticon.com/br/autores/freepik)
