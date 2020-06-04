@@ -3,7 +3,7 @@
     <br />
    <br />
     An awesome list with anti-racism content<br />
-    <em>Disponível em breve em Português</em>
+    <em><a href="readme-pt-br.md">Português</a>&nbsp;&nbsp;&nbsp;</em>
     <br />
     <br />
 </p>
