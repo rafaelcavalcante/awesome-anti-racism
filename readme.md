@@ -30,6 +30,7 @@
 - *Little Fires Everywhere* by Celeste Ng
 - *The Hate U Give* by Angie Thomas
 - *To Kill a Mockingbird* by Harper Lee
+- *Uncle Tom's Cabin* by Harriet Beecher Stowe
 
 ### Documentaries and short films
 
@@ -48,10 +49,13 @@
 ### People
 
 - [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
+- [Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman)
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 - [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ### TV Shows
+
+- [Trigger Warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
 
 ### Videos
 
