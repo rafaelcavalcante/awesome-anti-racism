@@ -19,7 +19,6 @@
 - [People](#people)
 - [TV Shows](#tv-shows)
 - [Videos](#videos)
-- [YouTube Channels](#videos)
 
 ### Articles
 
@@ -58,10 +57,6 @@
 - [Trigger Warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
 
 ### Videos
-
-### YouTube
-
-- [Nátaly Neri](https://www.youtube.com/results?search_query=nataly+neri) 🇧🇷🇵🇹
 
 ## Contributing
 
