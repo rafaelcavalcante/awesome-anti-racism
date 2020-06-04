@@ -27,4 +27,4 @@
 
 ### YouTube
 
-- [Nátaly Neri](https://www.youtube.com/channel/UCjivwB8MrrGCMlIuoSdkrQg) 🇧🇷
+- [Nátaly Neri](https://www.youtube.com/channel/UCjivwB8MrrGCMlIuoSdkrQg)
