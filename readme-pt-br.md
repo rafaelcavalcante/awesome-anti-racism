@@ -8,7 +8,7 @@
     <br />
 </p>
 
-## Content
+## Conteúdos
 
 - [Entrevistas](#entrevistas)
 - [Pessoas](#pessoas)
