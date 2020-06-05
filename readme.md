@@ -55,11 +55,10 @@
 - [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
 - [When they see us](https://www.themoviedb.org/tv/81355-when-they-see-us)
 
-## NGOs
-
 ### People
 
 - [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
+- [Colin Kaepernick](https://en.wikipedia.org/wiki/Colin_Kaepernick)
 - [Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman)
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 - [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
@@ -72,8 +71,6 @@
 - [Trigger warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
 - [The hate u give](https://www.themoviedb.org/movie/470044-the-hate-u-give?language=en-US)
 - [Dear white people](https://www.themoviedb.org/tv/70767-dear-white-people?language=en-US)
-
-### Videos
 
 ## Contributing
 
