@@ -2,7 +2,9 @@
     <img src="https://user-images.githubusercontent.com/405355/83671033-6b36d380-a5aa-11ea-93e4-8ee406523242.png" style="width:128px;height:auto;" alt="Awesome: Anti-racism">
     <br />
    <br />
-    An awesome list with anti-racism content<br />
+    An awesome list with anti-racism content
+    <br />
+    <br />
     <em><a href="readme-pt-br.md">Português 🇧🇷</a></em>
     <br />
     <br />
