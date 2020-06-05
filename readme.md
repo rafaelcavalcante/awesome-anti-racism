@@ -33,17 +33,22 @@
 
 ### Documentaries and short films
 
+- [Hello, privilege. It's me, Chelsea](https://www.themoviedb.org/movie/628039-hello-privilege-it-s-me-chelsea)
+
 ## Movements
 
 - [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
 
 ### Movies
 
+- [12 years a slave](https://www.themoviedb.org/movie/76203-12-years-a-slave?language=en-US)
 - [BlacKkKlansman](https://www.themoviedb.org/movie/487558-black-klansman?language=en-US)
+- [Dear white people](https://www.themoviedb.org/movie/114750-dear-white-people?language=en-US)
 - [Do the Right Thing](https://www.themoviedb.org/movie/925-do-the-right-thing?language=en-US)
 - [Get out](https://www.themoviedb.org/movie/419430-get-out?language=en-US)
 - [Hidden Figures](https://www.themoviedb.org/movie/381284-hidden-figures)
 - [Men of Honor](https://www.themoviedb.org/movie/11978-men-of-honor?language=en-US)
+- [Moonlight](https://www.themoviedb.org/search/movie?query=Moonlight&language=en-US)
 - [The Help](https://www.themoviedb.org/movie/50014-the-help)
 - [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
 - [When they see us](https://www.themoviedb.org/tv/81355-when-they-see-us)
@@ -60,11 +65,11 @@
 ### TV Shows
 
 - [13th](https://www.themoviedb.org/movie/407806-13th?language=en-US)
-- [12 years a slave](https://www.themoviedb.org/movie/76203-12-years-a-slave?language=en-US)
+- [Brooklyn 99](https://www.themoviedb.org/tv/48891-brooklyn-nine-nine?language=en-US)
 - [Chelsea does (Episode 3)](https://www.themoviedb.org/tv/65434-chelsea-does)
-- [Hello, privilege. It's me, Chelsea](https://www.themoviedb.org/movie/628039-hello-privilege-it-s-me-chelsea)
 - [Trigger warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
 - [The hate u give](https://www.themoviedb.org/movie/470044-the-hate-u-give?language=en-US)
+- [Dear white people](https://www.themoviedb.org/tv/70767-dear-white-people?language=en-US)
 
 ### Videos
 
