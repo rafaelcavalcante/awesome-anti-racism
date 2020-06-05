@@ -10,7 +10,6 @@
 
 ## Content
 
-- [Articles](#articles)
 - [Books](#books)
 - [Documentaries and short films](#documentaries-and-short-films)
 - [Movements](#movements)
@@ -18,9 +17,6 @@
 - [NGOs](#ngos)
 - [People](#people)
 - [TV Shows](#tv-shows)
-- [Videos](#videos)
-
-### Articles
 
 ### Books
 
@@ -35,7 +31,7 @@
 
 - [Hello, privilege. It's me, Chelsea](https://www.themoviedb.org/movie/628039-hello-privilege-it-s-me-chelsea)
 
-## Movements
+### Movements
 
 - [Black Lives Matter](https://en.wikipedia.org/wiki/Black_Lives_Matter)
 - [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
