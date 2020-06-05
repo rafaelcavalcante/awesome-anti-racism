@@ -37,7 +37,9 @@
 
 ## Movements
 
+- [Black Lives Matter](https://en.wikipedia.org/wiki/Black_Lives_Matter)
 - [Black Panther Party](https://en.wikipedia.org/wiki/Black_Panther_Party)
+- [Political Hip Hop](https://en.wikipedia.org/wiki/Political_hip_hop)
 
 ### Movies
 
