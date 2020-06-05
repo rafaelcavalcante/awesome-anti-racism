@@ -12,6 +12,7 @@
 
 ## Conteúdos
 
+- [Casos](#casos)
 - [Entrevistas](#entrevistas)
 - [Filmes](#filmes)
 - [Movimentos](#movimentos)
