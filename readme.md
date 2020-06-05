@@ -31,6 +31,11 @@
 
 - [Hello, privilege. It's me, Chelsea](https://www.themoviedb.org/movie/628039-hello-privilege-it-s-me-chelsea)
 
+### Cases
+
+- [Tawana Brawley rape allegations](https://en.wikipedia.org/wiki/Tawana_Brawley_rape_allegations)
+- [George Stinney](https://en.wikipedia.org/wiki/George_Stinney)
+
 ### Movements
 
 - [Black Lives Matter](https://en.wikipedia.org/wiki/Black_Lives_Matter)
@@ -53,11 +58,14 @@
 
 ### People
 
+- [Al Sharpton](https://en.wikipedia.org/wiki/Al_Sharpton)
 - [Angela Davis](https://en.wikipedia.org/wiki/Angela_Davis)
 - [Colin Kaepernick](https://en.wikipedia.org/wiki/Colin_Kaepernick)
 - [Harriet Tubman](https://en.wikipedia.org/wiki/Harriet_Tubman)
 - [Malcolm X](https://en.wikipedia.org/wiki/Malcolm_X)
 - [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+- [Spike Lee](https://en.wikipedia.org/wiki/Spike_Lee)
+- [George Stinney](https://en.wikipedia.org/wiki/George_Stinney)
 
 ### TV Shows
 
