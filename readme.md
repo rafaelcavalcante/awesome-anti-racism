@@ -82,6 +82,8 @@
 
 Just fork and open a pull request. We're still refining how content should me managed/formatted and will discuss details in merge request.
 
+If you don't now how to use Github, you can send materials to awesome-anti-racism@protonmail.com.
+
 Please avoid using links to paid services, like pointing a movie to Netflix or books to Amazon.
 
 If you're adding a content within a specific language that is not english, please add em Emoji in the end of the item.

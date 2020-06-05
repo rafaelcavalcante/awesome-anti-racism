@@ -73,6 +73,10 @@
 - [Nátaly Neri](https://www.youtube.com/channel/UCjivwB8MrrGCMlIuoSdkrQg)
 - [Papo de Preta](https://www.youtube.com/channel/UCvu2MvWjNozGxCdRlY1034Q/featured)
 
+## Contribuindo
+
+Caso não saiba usar o Github, você pode enviar sua sugestão de conteúdo para awesome-anti-racism@protonmail.com :)
+
 ## Credits
 
 Baseado nas listas [Awesome](https://github.com/sindresorhus/awesome) de Sindre Sorhus.
