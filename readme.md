@@ -24,12 +24,12 @@
 
 ### Books
 
-- *The Underground Railroad* by Colson Whitehead
-- *An American Marriage* by Tayari Jones
-- *Little Fires Everywhere* by Celeste Ng
-- *The Hate U Give* by Angie Thomas
-- *To Kill a Mockingbird* by Harper Lee
-- *Uncle Tom's Cabin* by Harriet Beecher Stowe
+- _The Underground Railroad_ by Colson Whitehead
+- _An American Marriage_ by Tayari Jones
+- _Little Fires Everywhere_ by Celeste Ng
+- _The Hate U Give_ by Angie Thomas
+- _To Kill a Mockingbird_ by Harper Lee
+- _Uncle Tom's Cabin_ by Harriet Beecher Stowe
 
 ### Documentaries and short films
 
@@ -39,9 +39,13 @@
 
 ### Movies
 
-- [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
+- [BlacKkKlansman](https://www.themoviedb.org/movie/487558-black-klansman?language=en-US)
+- [Do the Right Thing](https://www.themoviedb.org/movie/925-do-the-right-thing?language=en-US)
+- [Get out](https://www.themoviedb.org/movie/419430-get-out?language=en-US)
 - [Hidden Figures](https://www.themoviedb.org/movie/381284-hidden-figures)
+- [Men of Honor](https://www.themoviedb.org/movie/11978-men-of-honor?language=en-US)
 - [The Help](https://www.themoviedb.org/movie/50014-the-help)
+- [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
 
 ## NGOs
 
@@ -54,7 +58,12 @@
 
 ### TV Shows
 
-- [Trigger Warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
+- [13th](https://www.themoviedb.org/movie/407806-13th?language=en-US)
+- [12 years a slave](https://www.themoviedb.org/movie/76203-12-years-a-slave?language=en-US)
+- [Chelsea does (Episode 3)](https://www.themoviedb.org/tv/65434-chelsea-does)
+- [Hello, privilege. It's me, Chelsea](https://www.themoviedb.org/movie/628039-hello-privilege-it-s-me-chelsea)
+- [Trigger warning with Killer Mike](https://www.themoviedb.org/tv/85956-trigger-warning-with-killer-mike)
+- [The hate u give](https://www.themoviedb.org/movie/470044-the-hate-u-give?language=en-US)
 
 ### Videos
 
@@ -68,9 +77,8 @@ If you're adding a content within a specific language that is not english, pleas
 
 You can also check for [issues marked as "Help Wanted"](https://github.com/rafaelcavalcante/awesome-anti-racism/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) to contribute.
 
-
 ## Credits
 
-Based on Sindre Sorhus's [Awesome]( https://github.com/sindresorhus/awesome) project.
+Based on Sindre Sorhus's [Awesome](https://github.com/sindresorhus/awesome) project.
 
 Icon by [Freepik](https://www.flaticon.com/br/autores/freepik)
