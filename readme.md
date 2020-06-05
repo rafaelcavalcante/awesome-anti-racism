@@ -46,6 +46,7 @@
 - [Men of Honor](https://www.themoviedb.org/movie/11978-men-of-honor?language=en-US)
 - [The Help](https://www.themoviedb.org/movie/50014-the-help)
 - [The Color Purple](https://www.themoviedb.org/movie/873-the-color-purple)
+- [When they see us](https://www.themoviedb.org/tv/81355-when-they-see-us)
 
 ## NGOs
 
