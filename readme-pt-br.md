@@ -5,7 +5,7 @@
     Uma lista incrível de conteúdo antirracista
     <br />
     <br />
-    <em><a href="readme.md">English</a></em>
+    <a href="readme.md">English</a> | Português
     <br />
     <br />
 </p>

@@ -5,7 +5,7 @@
     An awesome list with anti-racism content
     <br />
     <br />
-    <em><a href="readme-pt-br.md">Português 🇧🇷</a></em>
+    English | <a href="readme-pt-br.md">Português</a></em>
     <br />
     <br />
 </p>
