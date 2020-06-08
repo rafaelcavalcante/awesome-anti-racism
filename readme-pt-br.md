@@ -17,6 +17,7 @@
 - [Filmes](#filmes)
 - [Movimentos](#movimentos)
 - [Pessoas](#pessoas)
+- [Podcasts](#podcasts)
 - [Seriados](#seriados)
 - [YouTube](#youtube)
 
@@ -57,6 +58,10 @@
 - [Malcolm X](https://pt.wikipedia.org/wiki/Malcolm_X)
 - [Martin Luther King Jr.](https://pt.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 - [Spike Lee](https://pt.wikipedia.org/wiki/Spike_Lee)
+
+### Podcasts
+
+- [História Preta](https://www.b9.com.br/shows/historiapreta/)
 
 ### Seriados
 
