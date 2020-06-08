@@ -29,6 +29,7 @@
 ### Entrevistas
 
 - [Mano Brown e Francisco Bosco discutem lugar de fala e apropriação cultural](https://www.youtube.com/watch?v=LjUiDoQEb9o)
+- [O que é racismo estrutural? Por Silvio Almeida](https://www.youtube.com/watch?v=PD4Ew5DIGrU)
 
 ### Filmes
 
