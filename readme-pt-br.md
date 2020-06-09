@@ -15,6 +15,7 @@
 - [Casos](#casos)
 - [Entrevistas](#entrevistas)
 - [Filmes](#filmes)
+- [Livros](#livros)
 - [Movimentos](#movimentos)
 - [Pessoas](#pessoas)
 - [Podcasts](#podcasts)
