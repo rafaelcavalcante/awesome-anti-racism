@@ -45,6 +45,10 @@
 - [A cor púrpura](https://www.themoviedb.org/movie/873-the-color-purple)
 - [Olhos que condenam](https://www.themoviedb.org/tv/81355-when-they-see-us)
 
+### Livros
+
+- _Pequeno manual antirracista_ por Djamilla Ribeiro
+
 ### Movimentos
 
 - [Geledés - Instituto da Mulher Negra](https://www.geledes.org.br/)
